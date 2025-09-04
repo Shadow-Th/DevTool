@@ -1,0 +1,17 @@
+{
+"name" : "CI"
+"version" : "1.0.0"
+"description": "A simple Node.js project to demonstrate CI/CD with GitHub Actions.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+"keywords": [
+    "ci",
+    "cd",
+    "github-actions",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
